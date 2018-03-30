@@ -1,0 +1,28 @@
+/*----------------------LEVEL 1-----------------------*/
+
+.ranges {
+    width: 60px;
+}
+
+#numberB,
+#rangeB,
+#randomB,
+#addB,
+#AutoCreate,
+#StopAutoCreate {
+    margin-top: 20px;
+}
+
+#numberB {
+    background-color: black;
+    color: white;
+}
+
+#randomB {
+    background-color: pink;
+}
+
+#addB {
+    background-color: gray;
+    color: white;
+}
